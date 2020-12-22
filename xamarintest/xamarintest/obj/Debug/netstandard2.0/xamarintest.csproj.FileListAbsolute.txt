@@ -1,0 +1,14 @@
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\bin\Debug\netstandard2.0\xamarintest.deps.json
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\bin\Debug\netstandard2.0\xamarintest.dll
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\bin\Debug\netstandard2.0\ref\xamarintest.dll
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\bin\Debug\netstandard2.0\xamarintest.pdb
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\App.xaml.g.cs
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\xamarintest.AssemblyInfoInputs.cache
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\xamarintest.AssemblyInfo.cs
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\xamarintest.csproj.CoreCompileInputs.cache
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\XamlC.stamp
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\xamarintest.dll
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\ref\xamarintest.dll
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\xamarintest.pdb
+P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest\obj\Debug\netstandard2.0\xamarintest.csprojAssemblyReference.cache

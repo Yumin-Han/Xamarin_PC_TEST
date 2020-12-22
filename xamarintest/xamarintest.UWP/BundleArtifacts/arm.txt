@@ -1,0 +1,4 @@
+MainPackage=P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest.UWP\bin\ARM\Debug\xamarintest.UWP_1.0.5.0_ARM_Debug.appx
+SymbolPackage=P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest.UWP\obj\ARM\Debug\Symbols\xamarintest.UWP_1.0.5.0_ARM_Debug.appxsym
+ResourcePack=P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest.UWP\bin\ARM\Debug\xamarintest.UWP_1.0.5.0_scale-100.appx
+ResourcePack=P:\Project\C#\Xamarin\xamarintest\xamarintest\xamarintest.UWP\bin\ARM\Debug\xamarintest.UWP_1.0.5.0_scale-400.appx
